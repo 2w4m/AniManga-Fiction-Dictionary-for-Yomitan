@@ -1,7 +1,7 @@
 A Yomitan dictionary created for vocabulary from Anime/Manga/Games/Fiction\
 As of now, it includes vocabulary from:
 1. "Jujutsu Kaisen" (excluding minor techniques deep in the wiki, which I'll add with time)
-2. "Dr. Stone" (only a few words as a test)\
+2. "Dr. Stone" (only a few words as a test)
 
 ![Divine Visionary](JKJ.png)
 
